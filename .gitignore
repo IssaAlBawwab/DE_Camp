@@ -1,0 +1,9 @@
+**/*.csv
+# Ignore all CSV files
+*.csv
+
+# Ignore specific files
+yellow_tripdata_2021-01.csv
+
+# Ignore directories
+my_taxi_postgres_data/
