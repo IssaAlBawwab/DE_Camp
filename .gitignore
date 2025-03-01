@@ -1,3 +1,8 @@
+## Ignore spark output
+**/*.parquet
+**/*.crc
+*SUCCESS
+**/*.gz
 **/*.csv
 # Ignore all CSV files
 *.csv
