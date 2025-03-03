@@ -6,7 +6,6 @@
 **/*.csv
 # Ignore all CSV files
 *.csv
-!**/taxi_zone_lookup.csv
 # Local .terraform directories
 **/.terraform/*
 
